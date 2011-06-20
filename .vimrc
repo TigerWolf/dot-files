@@ -1,0 +1,9 @@
+:syntax on
+:set number
+:set nowrap
+:set autoindent
+:set smartindent
+:set ts=4
+:set sw=4
+:set mouse=a
+:set softtabstop=4
